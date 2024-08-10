@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
-- 👯 I’m looking to collaborate on [AGRI KART](https://jeyapandiv.github.io/AgriKart-Ecommerce_Website/)
+- 👯 I’m worked in E commerce site project [AGRI KART](https://jeyapandiv.github.io/AgriKart-Ecommerce_Website/)
 
 - 📫 How to reach me **theetshithaldckap@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/theetshitha lakshmanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theetshitha lakshmanan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/theetshitha-lakshmanan-512479273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/theetshitha-lakshmanan-512479273/" height="30" width="40" /></a>
 <a href="https://instagram.com/theetshitha_lakshmanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theetshitha_lakshmanan" height="30" width="40" /></a>
 </p>
 
